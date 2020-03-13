@@ -1,3 +1,7 @@
+Codepen from part 2: https://codepen.io/chiku524/pen/vYOdQOO?editors=1100
+
+
+
     1. What is Semantic HTML? 
 	Semantic HTML is the use of the use of HTML that reinforces the meaning behind what is being put into the code.
     2. What is HTML used for? 
